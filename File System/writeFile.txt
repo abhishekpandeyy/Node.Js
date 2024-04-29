@@ -1,0 +1,1 @@
+I am the second content of writeFile.txt

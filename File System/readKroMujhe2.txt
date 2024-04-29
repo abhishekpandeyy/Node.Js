@@ -1,0 +1,3 @@
+so what is it 
+okay it means if we do not pass the 'w' as second argument then 
+we can not write in the file
