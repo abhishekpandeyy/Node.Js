@@ -14,6 +14,7 @@
                     // console.log(urlObj.hostname);
 
 //!  Node.js File Server
+
 // Now we know how to parse the query string, and in the previous chapter we learned how to make Node.js behave as a file server. Let us combine the two, and 
 // **serve the file requested by the client.
 // Create two html files and save them in the same folder as your node.js files.
